@@ -1,0 +1,1 @@
+# WrappedUserDefaults-podspec
